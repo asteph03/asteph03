@@ -1,4 +1,4 @@
-### My name is Aidan Stephenson and I am a 3rd year Computer Science student at the University of Cincinnati. I've been learning about Computer Science and programming for 5 years now, and I have a passion for creating my own applications, specifically relating to Audio Engineering.
+### My name is Aidan Stephenson and I am a 3rd year Computer Science student at the University of Cincinnati. I've been learning about Computer Science and programming for 5 years now, and I have a passion for creating my own applications, specifically relating to Audio Engineering and Production.
 
 <!--
 **asteph03/asteph03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
